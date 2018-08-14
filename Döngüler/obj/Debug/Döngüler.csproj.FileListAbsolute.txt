@@ -1,0 +1,6 @@
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\Döngüler\bin\Debug\Döngüler.exe.config
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\Döngüler\bin\Debug\Döngüler.exe
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\Döngüler\bin\Debug\Döngüler.pdb
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\Döngüler\obj\Debug\Döngüler.exe
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\Döngüler\obj\Debug\Döngüler.pdb
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\Döngüler\obj\Debug\Döngüler.csprojResolveAssemblyReference.cache

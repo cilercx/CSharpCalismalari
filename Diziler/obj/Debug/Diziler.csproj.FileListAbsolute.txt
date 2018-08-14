@@ -1,0 +1,5 @@
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\Diziler\bin\Debug\Diziler.exe
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\Diziler\bin\Debug\Diziler.pdb
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\Diziler\obj\Debug\Diziler.exe
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\Diziler\obj\Debug\Diziler.pdb

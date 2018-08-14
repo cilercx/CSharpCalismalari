@@ -1,0 +1,6 @@
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\ConsoleTekrar\bin\Debug\ConsoleTekrar.exe.config
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\ConsoleTekrar\bin\Debug\ConsoleTekrar.exe
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\ConsoleTekrar\bin\Debug\ConsoleTekrar.pdb
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\ConsoleTekrar\obj\Debug\ConsoleTekrar.csprojResolveAssemblyReference.cache
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\ConsoleTekrar\obj\Debug\ConsoleTekrar.exe
+C:\Users\burakcpc\Desktop\ConsoleTekrar\ConsoleTekrar\ConsoleTekrar\obj\Debug\ConsoleTekrar.pdb
